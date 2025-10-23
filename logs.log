@@ -52987,3 +52987,862 @@ Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshol
 2025-10-23 11:25:35,599:INFO:Defining Hyperparameters
 2025-10-23 11:25:35,889:INFO:Tuning with n_jobs=1
 2025-10-23 11:25:35,889:INFO:Initializing RandomizedSearchCV
+2025-10-23 11:27:10,719:WARNING:c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\sklearn\linear_model\_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=5.29e-17): result may not be accurate.
+
+2025-10-23 11:27:16,486:WARNING:c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\sklearn\linear_model\_ridge.py:204: LinAlgWarning: Ill-conditioned matrix (rcond=5.22783e-17): result may not be accurate.
+
+2025-10-23 11:27:29,164:INFO:best_params: {'actual_estimator__fit_intercept': False, 'actual_estimator__alpha': 7.3}
+2025-10-23 11:27:29,165:INFO:Hyperparameter search completed
+2025-10-23 11:27:29,165:INFO:SubProcess create_model() called ==================================
+2025-10-23 11:27:29,169:INFO:Initializing create_model()
+2025-10-23 11:27:29,170:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001), fold=GroupKFold(n_splits=2), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=55839    U04622
+74143    U09160
+53722    U10858
+61548    U09535
+74714    U02827
+          ...  
+28271    U08865
+52847    U02871
+33370    U17436
+38599    U00373
+29387    U03046
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x0000021641B49590>, model_only=True, return_train_score=False, error_score=0.0, kwargs={'fit_intercept': False, 'alpha': 7.3})
+2025-10-23 11:27:29,170:INFO:Checking exceptions
+2025-10-23 11:27:29,170:INFO:Importing libraries
+2025-10-23 11:27:29,170:INFO:Copying training dataset
+2025-10-23 11:27:29,734:INFO:Defining folds
+2025-10-23 11:27:29,734:INFO:Declaring metric variables
+2025-10-23 11:27:29,739:INFO:Importing untrained model
+2025-10-23 11:27:29,739:INFO:Declaring custom model
+2025-10-23 11:27:29,745:INFO:Ridge Classifier Imported successfully
+2025-10-23 11:27:29,756:INFO:Starting cross validation
+2025-10-23 11:27:29,767:INFO:Cross validating with GroupKFold(n_splits=2), n_jobs=1
+2025-10-23 11:27:41,133:INFO:Calculating mean and std
+2025-10-23 11:27:41,134:INFO:Creating metrics dataframe
+2025-10-23 11:27:41,143:INFO:Finalizing model
+2025-10-23 11:27:49,337:INFO:Uploading results into container
+2025-10-23 11:27:49,338:INFO:Uploading model into container now
+2025-10-23 11:27:49,339:INFO:_master_model_container: 19
+2025-10-23 11:27:49,339:INFO:_display_container: 4
+2025-10-23 11:27:49,340:INFO:RidgeClassifier(alpha=7.3, class_weight=None, copy_X=True, fit_intercept=False,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001)
+2025-10-23 11:27:49,340:INFO:create_model() successfully completed......................................
+2025-10-23 11:27:49,673:INFO:SubProcess create_model() end ==================================
+2025-10-23 11:27:49,673:INFO:choose_better activated
+2025-10-23 11:27:49,678:INFO:SubProcess create_model() called ==================================
+2025-10-23 11:27:49,679:INFO:Initializing create_model()
+2025-10-23 11:27:49,679:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001), fold=GroupKFold(n_splits=2), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=55839    U04622
+74143    U09160
+53722    U10858
+61548    U09535
+74714    U02827
+          ...  
+28271    U08865
+52847    U02871
+33370    U17436
+38599    U00373
+29387    U03046
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-23 11:27:49,680:INFO:Checking exceptions
+2025-10-23 11:27:49,683:INFO:Importing libraries
+2025-10-23 11:27:49,684:INFO:Copying training dataset
+2025-10-23 11:27:50,450:INFO:Defining folds
+2025-10-23 11:27:50,451:INFO:Declaring metric variables
+2025-10-23 11:27:50,452:INFO:Importing untrained model
+2025-10-23 11:27:50,452:INFO:Declaring custom model
+2025-10-23 11:27:50,452:INFO:Ridge Classifier Imported successfully
+2025-10-23 11:27:50,453:INFO:Starting cross validation
+2025-10-23 11:27:50,475:INFO:Cross validating with GroupKFold(n_splits=2), n_jobs=1
+2025-10-23 11:28:01,920:INFO:Calculating mean and std
+2025-10-23 11:28:01,921:INFO:Creating metrics dataframe
+2025-10-23 11:28:01,925:INFO:Finalizing model
+2025-10-23 11:28:10,172:INFO:Uploading results into container
+2025-10-23 11:28:10,174:INFO:Uploading model into container now
+2025-10-23 11:28:10,174:INFO:_master_model_container: 20
+2025-10-23 11:28:10,174:INFO:_display_container: 5
+2025-10-23 11:28:10,175:INFO:RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001)
+2025-10-23 11:28:10,175:INFO:create_model() successfully completed......................................
+2025-10-23 11:28:10,496:INFO:SubProcess create_model() end ==================================
+2025-10-23 11:28:10,498:INFO:RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001) result for AUC is 0.921
+2025-10-23 11:28:10,500:INFO:RidgeClassifier(alpha=7.3, class_weight=None, copy_X=True, fit_intercept=False,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001) result for AUC is 0.9214
+2025-10-23 11:28:10,501:INFO:RidgeClassifier(alpha=7.3, class_weight=None, copy_X=True, fit_intercept=False,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001) is best model
+2025-10-23 11:28:10,501:INFO:choose_better completed
+2025-10-23 11:28:10,518:INFO:_master_model_container: 20
+2025-10-23 11:28:10,519:INFO:_display_container: 4
+2025-10-23 11:28:10,520:INFO:RidgeClassifier(alpha=7.3, class_weight=None, copy_X=True, fit_intercept=False,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001)
+2025-10-23 11:28:10,520:INFO:tune_model() successfully completed......................................
+2025-10-23 11:28:10,855:INFO:Initializing tune_model()
+2025-10-23 11:28:10,855:INFO:tune_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001), fold=None, round=4, n_iter=10, custom_grid=None, optimize=AUC, custom_scorer=None, search_library=scikit-learn, search_algorithm=None, early_stopping=False, early_stopping_max_iters=10, choose_better=True, fit_kwargs=None, groups=None, return_tuner=False, verbose=True, tuner_verbose=True, return_train_score=False, kwargs={})
+2025-10-23 11:28:10,855:INFO:Checking exceptions
+2025-10-23 11:28:11,242:INFO:Copying training dataset
+2025-10-23 11:28:11,726:INFO:Checking base model
+2025-10-23 11:28:11,726:INFO:Base model : Linear Discriminant Analysis
+2025-10-23 11:28:11,739:INFO:Declaring metric variables
+2025-10-23 11:28:11,747:INFO:Defining Hyperparameters
+2025-10-23 11:28:12,041:INFO:Tuning with n_jobs=1
+2025-10-23 11:28:12,041:INFO:Initializing RandomizedSearchCV
+2025-10-23 11:29:23,567:INFO:best_params: {'actual_estimator__solver': 'lsqr', 'actual_estimator__shrinkage': 'auto'}
+2025-10-23 11:29:23,568:INFO:Hyperparameter search completed
+2025-10-23 11:29:23,568:INFO:SubProcess create_model() called ==================================
+2025-10-23 11:29:23,569:INFO:Initializing create_model()
+2025-10-23 11:29:23,569:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001), fold=GroupKFold(n_splits=2), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=55839    U04622
+74143    U09160
+53722    U10858
+61548    U09535
+74714    U02827
+          ...  
+28271    U08865
+52847    U02871
+33370    U17436
+38599    U00373
+29387    U03046
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x0000021641E9EED0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={'solver': 'lsqr', 'shrinkage': 'auto'})
+2025-10-23 11:29:23,569:INFO:Checking exceptions
+2025-10-23 11:29:23,569:INFO:Importing libraries
+2025-10-23 11:29:23,569:INFO:Copying training dataset
+2025-10-23 11:29:23,912:INFO:Defining folds
+2025-10-23 11:29:23,912:INFO:Declaring metric variables
+2025-10-23 11:29:23,916:INFO:Importing untrained model
+2025-10-23 11:29:23,917:INFO:Declaring custom model
+2025-10-23 11:29:23,920:INFO:Linear Discriminant Analysis Imported successfully
+2025-10-23 11:29:23,928:INFO:Starting cross validation
+2025-10-23 11:29:23,934:INFO:Cross validating with GroupKFold(n_splits=2), n_jobs=1
+2025-10-23 11:29:30,377:INFO:Calculating mean and std
+2025-10-23 11:29:30,377:INFO:Creating metrics dataframe
+2025-10-23 11:29:30,381:INFO:Finalizing model
+2025-10-23 11:29:35,250:INFO:Uploading results into container
+2025-10-23 11:29:35,252:INFO:Uploading model into container now
+2025-10-23 11:29:35,252:INFO:_master_model_container: 21
+2025-10-23 11:29:35,253:INFO:_display_container: 5
+2025-10-23 11:29:35,254:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage='auto', solver='lsqr',
+                           store_covariance=False, tol=0.0001)
+2025-10-23 11:29:35,255:INFO:create_model() successfully completed......................................
+2025-10-23 11:29:35,434:INFO:SubProcess create_model() end ==================================
+2025-10-23 11:29:35,435:INFO:choose_better activated
+2025-10-23 11:29:35,439:INFO:SubProcess create_model() called ==================================
+2025-10-23 11:29:35,442:INFO:Initializing create_model()
+2025-10-23 11:29:35,442:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001), fold=GroupKFold(n_splits=2), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=55839    U04622
+74143    U09160
+53722    U10858
+61548    U09535
+74714    U02827
+          ...  
+28271    U08865
+52847    U02871
+33370    U17436
+38599    U00373
+29387    U03046
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-23 11:29:35,442:INFO:Checking exceptions
+2025-10-23 11:29:35,444:INFO:Importing libraries
+2025-10-23 11:29:35,445:INFO:Copying training dataset
+2025-10-23 11:29:35,830:INFO:Defining folds
+2025-10-23 11:29:35,830:INFO:Declaring metric variables
+2025-10-23 11:29:35,830:INFO:Importing untrained model
+2025-10-23 11:29:35,830:INFO:Declaring custom model
+2025-10-23 11:29:35,830:INFO:Linear Discriminant Analysis Imported successfully
+2025-10-23 11:29:35,831:INFO:Starting cross validation
+2025-10-23 11:29:35,836:INFO:Cross validating with GroupKFold(n_splits=2), n_jobs=1
+2025-10-23 11:29:42,648:INFO:Calculating mean and std
+2025-10-23 11:29:42,648:INFO:Creating metrics dataframe
+2025-10-23 11:29:42,649:INFO:Finalizing model
+2025-10-23 11:29:48,220:INFO:Uploading results into container
+2025-10-23 11:29:48,221:INFO:Uploading model into container now
+2025-10-23 11:29:48,221:INFO:_master_model_container: 22
+2025-10-23 11:29:48,222:INFO:_display_container: 6
+2025-10-23 11:29:48,222:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)
+2025-10-23 11:29:48,222:INFO:create_model() successfully completed......................................
+2025-10-23 11:29:48,410:INFO:SubProcess create_model() end ==================================
+2025-10-23 11:29:48,410:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001) result for AUC is 0.9209
+2025-10-23 11:29:48,411:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage='auto', solver='lsqr',
+                           store_covariance=False, tol=0.0001) result for AUC is 0.9209
+2025-10-23 11:29:48,411:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001) is best model
+2025-10-23 11:29:48,411:INFO:choose_better completed
+2025-10-23 11:29:48,411:INFO:Original model was better than the tuned model, hence it will be returned. NOTE: The display metrics are for the tuned model (not the original one).
+2025-10-23 11:29:48,419:INFO:_master_model_container: 22
+2025-10-23 11:29:48,419:INFO:_display_container: 5
+2025-10-23 11:29:48,420:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)
+2025-10-23 11:29:48,420:INFO:tune_model() successfully completed......................................
+2025-10-23 11:29:48,591:INFO:Initializing blend_models()
+2025-10-23 11:29:48,591:INFO:blend_models(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator_list=[GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=42, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), RidgeClassifier(alpha=7.3, class_weight=None, copy_X=True, fit_intercept=False,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001), LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)], fold=None, round=4, choose_better=False, optimize=Accuracy, method=auto, weights=None, fit_kwargs=None, groups=None, probability_threshold=None, verbose=True, return_train_score=False)
+2025-10-23 11:29:48,591:INFO:Checking exceptions
+2025-10-23 11:29:48,592:INFO:Estimator RidgeClassifier(alpha=7.3, class_weight=None, copy_X=True, fit_intercept=False,
+                max_iter=None, positive=False, random_state=42, solver='auto',
+                tol=0.0001) doesn't support probabilities, falling back to 'hard'.
+2025-10-23 11:29:48,736:INFO:Importing libraries
+2025-10-23 11:29:48,736:INFO:Copying training dataset
+2025-10-23 11:29:48,741:INFO:Getting model names
+2025-10-23 11:29:48,747:INFO:SubProcess create_model() called ==================================
+2025-10-23 11:29:48,752:INFO:Initializing create_model()
+2025-10-23 11:29:48,752:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=VotingClassifier(estimators=[('Gradient Boosting Classifier',
+                              GradientBoostingClassifier(ccp_alpha=0.0,
+                                                         criterion='friedman_mse',
+                                                         init=None,
+                                                         learning_rate=0.1,
+                                                         loss='log_loss',
+                                                         max_depth=3,
+                                                         max_features=None,
+                                                         max_leaf_nodes=None,
+                                                         min_impurity_decrease=0.0,
+                                                         min_samples_leaf=1,
+                                                         min_samples_split=2,
+                                                         min_weight_fraction_leaf=0.0,
+                                                         n_estimators=100,
+                                                         n_iter_no_change=Non...
+                                              copy_X=True, fit_intercept=False,
+                                              max_iter=None, positive=False,
+                                              random_state=42, solver='auto',
+                                              tol=0.0001)),
+                             ('Linear Discriminant Analysis',
+                              LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                         n_components=None,
+                                                         priors=None,
+                                                         shrinkage=None,
+                                                         solver='svd',
+                                                         store_covariance=False,
+                                                         tol=0.0001))],
+                 flatten_transform=True, n_jobs=1, verbose=False, voting='hard',
+                 weights=None), fold=GroupKFold(n_splits=2), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=55839    U04622
+74143    U09160
+53722    U10858
+61548    U09535
+74714    U02827
+          ...  
+28271    U08865
+52847    U02871
+33370    U17436
+38599    U00373
+29387    U03046
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x0000021642225110>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-23 11:29:48,752:INFO:Checking exceptions
+2025-10-23 11:29:48,753:INFO:Importing libraries
+2025-10-23 11:29:48,753:INFO:Copying training dataset
+2025-10-23 11:29:49,106:INFO:Defining folds
+2025-10-23 11:29:49,107:INFO:Declaring metric variables
+2025-10-23 11:29:49,110:INFO:Importing untrained model
+2025-10-23 11:29:49,110:INFO:Declaring custom model
+2025-10-23 11:29:49,115:INFO:Voting Classifier Imported successfully
+2025-10-23 11:29:49,127:INFO:Starting cross validation
+2025-10-23 11:29:49,136:INFO:Cross validating with GroupKFold(n_splits=2), n_jobs=1
+2025-10-23 11:30:07,649:WARNING:c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\pycaret\internal\metrics.py:204: FitFailedWarning: Metric 'make_scorer(roc_auc_score, response_method=('decision_function', 'predict_proba'), average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\pycaret\internal\metrics.py", line 196, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\sklearn\metrics\_scorer.py", line 344, in _score
+    response_method = _check_response_method(estimator, self._response_method)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\sklearn\utils\validation.py", line 2106, in _check_response_method
+    raise AttributeError(
+AttributeError: Pipeline has none of the following attributes: decision_function, predict_proba.
+
+
+2025-10-23 11:30:26,917:WARNING:c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\pycaret\internal\metrics.py:204: FitFailedWarning: Metric 'make_scorer(roc_auc_score, response_method=('decision_function', 'predict_proba'), average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\pycaret\internal\metrics.py", line 196, in _score
+    return super()._score(
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\sklearn\metrics\_scorer.py", line 344, in _score
+    response_method = _check_response_method(estimator, self._response_method)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\sklearn\utils\validation.py", line 2106, in _check_response_method
+    raise AttributeError(
+AttributeError: Pipeline has none of the following attributes: decision_function, predict_proba.
+
+
+2025-10-23 11:30:26,964:INFO:Calculating mean and std
+2025-10-23 11:30:26,966:INFO:Creating metrics dataframe
+2025-10-23 11:30:26,971:INFO:Finalizing model
+2025-10-23 11:31:09,315:INFO:Uploading results into container
+2025-10-23 11:31:09,316:INFO:Uploading model into container now
+2025-10-23 11:31:09,317:INFO:_master_model_container: 23
+2025-10-23 11:31:09,317:INFO:_display_container: 6
+2025-10-23 11:31:09,321:INFO:VotingClassifier(estimators=[('Gradient Boosting Classifier',
+                              GradientBoostingClassifier(ccp_alpha=0.0,
+                                                         criterion='friedman_mse',
+                                                         init=None,
+                                                         learning_rate=0.1,
+                                                         loss='log_loss',
+                                                         max_depth=3,
+                                                         max_features=None,
+                                                         max_leaf_nodes=None,
+                                                         min_impurity_decrease=0.0,
+                                                         min_samples_leaf=1,
+                                                         min_samples_split=2,
+                                                         min_weight_fraction_leaf=0.0,
+                                                         n_estimators=100,
+                                                         n_iter_no_change=Non...
+                                              copy_X=True, fit_intercept=False,
+                                              max_iter=None, positive=False,
+                                              random_state=42, solver='auto',
+                                              tol=0.0001)),
+                             ('Linear Discriminant Analysis',
+                              LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                         n_components=None,
+                                                         priors=None,
+                                                         shrinkage=None,
+                                                         solver='svd',
+                                                         store_covariance=False,
+                                                         tol=0.0001))],
+                 flatten_transform=True, n_jobs=1, verbose=False, voting='hard',
+                 weights=None)
+2025-10-23 11:31:09,321:INFO:create_model() successfully completed......................................
+2025-10-23 11:31:09,523:INFO:SubProcess create_model() end ==================================
+2025-10-23 11:31:09,535:INFO:_master_model_container: 23
+2025-10-23 11:31:09,535:INFO:_display_container: 6
+2025-10-23 11:31:09,539:INFO:VotingClassifier(estimators=[('Gradient Boosting Classifier',
+                              GradientBoostingClassifier(ccp_alpha=0.0,
+                                                         criterion='friedman_mse',
+                                                         init=None,
+                                                         learning_rate=0.1,
+                                                         loss='log_loss',
+                                                         max_depth=3,
+                                                         max_features=None,
+                                                         max_leaf_nodes=None,
+                                                         min_impurity_decrease=0.0,
+                                                         min_samples_leaf=1,
+                                                         min_samples_split=2,
+                                                         min_weight_fraction_leaf=0.0,
+                                                         n_estimators=100,
+                                                         n_iter_no_change=Non...
+                                              copy_X=True, fit_intercept=False,
+                                              max_iter=None, positive=False,
+                                              random_state=42, solver='auto',
+                                              tol=0.0001)),
+                             ('Linear Discriminant Analysis',
+                              LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                         n_components=None,
+                                                         priors=None,
+                                                         shrinkage=None,
+                                                         solver='svd',
+                                                         store_covariance=False,
+                                                         tol=0.0001))],
+                 flatten_transform=True, n_jobs=1, verbose=False, voting='hard',
+                 weights=None)
+2025-10-23 11:31:09,539:INFO:blend_models() successfully completed......................................
+2025-10-23 11:31:09,725:INFO:Initializing finalize_model()
+2025-10-23 11:31:09,725:INFO:finalize_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=VotingClassifier(estimators=[('Gradient Boosting Classifier',
+                              GradientBoostingClassifier(ccp_alpha=0.0,
+                                                         criterion='friedman_mse',
+                                                         init=None,
+                                                         learning_rate=0.1,
+                                                         loss='log_loss',
+                                                         max_depth=3,
+                                                         max_features=None,
+                                                         max_leaf_nodes=None,
+                                                         min_impurity_decrease=0.0,
+                                                         min_samples_leaf=1,
+                                                         min_samples_split=2,
+                                                         min_weight_fraction_leaf=0.0,
+                                                         n_estimators=100,
+                                                         n_iter_no_change=Non...
+                                              copy_X=True, fit_intercept=False,
+                                              max_iter=None, positive=False,
+                                              random_state=42, solver='auto',
+                                              tol=0.0001)),
+                             ('Linear Discriminant Analysis',
+                              LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                         n_components=None,
+                                                         priors=None,
+                                                         shrinkage=None,
+                                                         solver='svd',
+                                                         store_covariance=False,
+                                                         tol=0.0001))],
+                 flatten_transform=True, n_jobs=1, verbose=False, voting='hard',
+                 weights=None), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2025-10-23 11:31:09,728:INFO:Finalizing VotingClassifier(estimators=[('Gradient Boosting Classifier',
+                              GradientBoostingClassifier(ccp_alpha=0.0,
+                                                         criterion='friedman_mse',
+                                                         init=None,
+                                                         learning_rate=0.1,
+                                                         loss='log_loss',
+                                                         max_depth=3,
+                                                         max_features=None,
+                                                         max_leaf_nodes=None,
+                                                         min_impurity_decrease=0.0,
+                                                         min_samples_leaf=1,
+                                                         min_samples_split=2,
+                                                         min_weight_fraction_leaf=0.0,
+                                                         n_estimators=100,
+                                                         n_iter_no_change=Non...
+                                              copy_X=True, fit_intercept=False,
+                                              max_iter=None, positive=False,
+                                              random_state=42, solver='auto',
+                                              tol=0.0001)),
+                             ('Linear Discriminant Analysis',
+                              LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                         n_components=None,
+                                                         priors=None,
+                                                         shrinkage=None,
+                                                         solver='svd',
+                                                         store_covariance=False,
+                                                         tol=0.0001))],
+                 flatten_transform=True, n_jobs=1, verbose=False, voting='hard',
+                 weights=None)
+2025-10-23 11:31:09,984:INFO:Initializing create_model()
+2025-10-23 11:31:09,984:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, estimator=VotingClassifier(estimators=[('Gradient Boosting Classifier',
+                              GradientBoostingClassifier(ccp_alpha=0.0,
+                                                         criterion='friedman_mse',
+                                                         init=None,
+                                                         learning_rate=0.1,
+                                                         loss='log_loss',
+                                                         max_depth=3,
+                                                         max_features=None,
+                                                         max_leaf_nodes=None,
+                                                         min_impurity_decrease=0.0,
+                                                         min_samples_leaf=1,
+                                                         min_samples_split=2,
+                                                         min_weight_fraction_leaf=0.0,
+                                                         n_estimators=100,
+                                                         n_iter_no_change=Non...
+                                              copy_X=True, fit_intercept=False,
+                                              max_iter=None, positive=False,
+                                              random_state=42, solver='auto',
+                                              tol=0.0001)),
+                             ('Linear Discriminant Analysis',
+                              LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                         n_components=None,
+                                                         priors=None,
+                                                         shrinkage=None,
+                                                         solver='svd',
+                                                         store_covariance=False,
+                                                         tol=0.0001))],
+                 flatten_transform=True, n_jobs=1, verbose=False, voting='hard',
+                 weights=None), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=55839    U04622
+74143    U09160
+53722    U10858
+61548    U09535
+74714    U02827
+          ...  
+74123    U04452
+20513    U07023
+54794    U14666
+77090    U07455
+71177    U08938
+Name: id_usuario, Length: 80004, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-23 11:31:09,984:INFO:Checking exceptions
+2025-10-23 11:31:09,985:INFO:Importing libraries
+2025-10-23 11:31:09,985:INFO:Copying training dataset
+2025-10-23 11:31:10,038:INFO:Defining folds
+2025-10-23 11:31:10,038:INFO:Declaring metric variables
+2025-10-23 11:31:10,038:INFO:Importing untrained model
+2025-10-23 11:31:10,038:INFO:Declaring custom model
+2025-10-23 11:31:10,039:INFO:Voting Classifier Imported successfully
+2025-10-23 11:31:10,046:INFO:Cross validation set to False
+2025-10-23 11:31:10,046:INFO:Fitting Model
+2025-10-23 11:32:07,891:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transf...
+                                                               fit_intercept=False,
+                                                               max_iter=None,
+                                                               positive=False,
+                                                               random_state=42,
+                                                               solver='auto',
+                                                               tol=0.0001)),
+                                              ('Linear Discriminant Analysis',
+                                               LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                                          n_components=None,
+                                                                          priors=None,
+                                                                          shrinkage=None,
+                                                                          solver='svd',
+                                                                          store_covariance=False,
+                                                                          tol=0.0001))],
+                                  flatten_transform=True, n_jobs=1,
+                                  verbose=False, voting='hard',
+                                  weights=None))],
+         verbose=False)
+2025-10-23 11:32:07,892:INFO:create_model() successfully completed......................................
+2025-10-23 11:32:08,098:INFO:_master_model_container: 23
+2025-10-23 11:32:08,098:INFO:_display_container: 6
+2025-10-23 11:32:08,122:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transf...
+                                                               fit_intercept=False,
+                                                               max_iter=None,
+                                                               positive=False,
+                                                               random_state=42,
+                                                               solver='auto',
+                                                               tol=0.0001)),
+                                              ('Linear Discriminant Analysis',
+                                               LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                                          n_components=None,
+                                                                          priors=None,
+                                                                          shrinkage=None,
+                                                                          solver='svd',
+                                                                          store_covariance=False,
+                                                                          tol=0.0001))],
+                                  flatten_transform=True, n_jobs=1,
+                                  verbose=False, voting='hard',
+                                  weights=None))],
+         verbose=False)
+2025-10-23 11:32:08,123:INFO:finalize_model() successfully completed......................................
+2025-10-23 11:32:08,350:INFO:Initializing save_model()
+2025-10-23 11:32:08,350:INFO:save_model(model=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transf...
+                                                               fit_intercept=False,
+                                                               max_iter=None,
+                                                               positive=False,
+                                                               random_state=42,
+                                                               solver='auto',
+                                                               tol=0.0001)),
+                                              ('Linear Discriminant Analysis',
+                                               LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                                          n_components=None,
+                                                                          priors=None,
+                                                                          shrinkage=None,
+                                                                          solver='svd',
+                                                                          store_covariance=False,
+                                                                          tol=0.0001))],
+                                  flatten_transform=True, n_jobs=1,
+                                  verbose=False, voting='hard',
+                                  weights=None))],
+         verbose=False), model_name=modelo_cls_like_v3, prep_pipe_=Pipeline(memory=FastMemory(location=C:\Users\Usuario\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             '...
+                                                              min_samples_leaf=20,
+                                                              return_df=True,
+                                                              smoothing=10,
+                                                              verbose=0))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[], include=None,
+                                    transformer=RemoveMulticollinearity(threshold=0.95))),
+                ('balance',
+                 TransformerWrapper(exclude=None, include=None,
+                                    transformer=FixImbalancer(estimator=SMOTE(k_neighbors=5,
+                                                                              random_state=42,
+                                                                              sampling_strategy='auto'))))],
+         verbose=False), verbose=True, use_case=MLUsecase.CLASSIFICATION, kwargs={})
+2025-10-23 11:32:08,350:INFO:Adding model into prep_pipe
+2025-10-23 11:32:08,350:WARNING:Only Model saved as it was a pipeline.
+2025-10-23 11:32:08,394:INFO:modelo_cls_like_v3.pkl saved in current working directory
+2025-10-23 11:32:08,420:INFO:Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(exclude=None,
+                                    include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transf...
+                                                               fit_intercept=False,
+                                                               max_iter=None,
+                                                               positive=False,
+                                                               random_state=42,
+                                                               solver='auto',
+                                                               tol=0.0001)),
+                                              ('Linear Discriminant Analysis',
+                                               LinearDiscriminantAnalysis(covariance_estimator=None,
+                                                                          n_components=None,
+                                                                          priors=None,
+                                                                          shrinkage=None,
+                                                                          solver='svd',
+                                                                          store_covariance=False,
+                                                                          tol=0.0001))],
+                                  flatten_transform=True, n_jobs=1,
+                                  verbose=False, voting='hard',
+                                  weights=None))],
+         verbose=False)
+2025-10-23 11:32:08,420:INFO:save_model() successfully completed......................................
+2025-10-23 11:32:08,575:INFO:Initializing get_config()
+2025-10-23 11:32:08,576:INFO:get_config(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, variable=X_train)
+2025-10-23 11:32:08,576:INFO:Variable: 'X_train' used to return the transformed values in PyCaret 2.x. From PyCaret 3.x, this will return the raw values. If you need the transformed values, call get_config with 'X_train_transformed' instead.
+2025-10-23 11:32:08,576:WARNING:c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\pycaret\internal\pycaret_experiment\pycaret_experiment.py:321: UserWarning: Variable: 'X_train' used to return the transformed values in PyCaret 2.x. From PyCaret 3.x, this will return the raw values. If you need the transformed values, call get_config with 'X_train_transformed' instead.
+
+2025-10-23 11:32:08,771:INFO:Variable:  returned as       nacionalidad       origen tipo_turista_preferido compania_viaje  \
+55839     Colombia       Cúcuta             naturaleza         pareja   
+74143     Colombia       Boyacá               cultural           solo   
+53722     Colombia  Bucaramanga               cultural        familia   
+61548     Colombia       Boyacá               cultural         pareja   
+74714     Colombia     Medellín               aventura         pareja   
+...            ...          ...                    ...            ...   
+28271     Colombia        Pasto             naturaleza        familia   
+52847     Colombia  Bucaramanga               cultural         amigos   
+33370     Colombia     Medellín               cultural         pareja   
+38599     Colombia     Medellín               cultural           solo   
+29387     Colombia     Sogamoso               cultural         amigos   
+
+                                          nombre_sitio        tipo_sitio  \
+55839                    Plaza Mayor de Villa de Leyva             plaza   
+74143                  Parque Principal de Santa Sofía             museo   
+53722                  Parque Principal de Santa Sofía             museo   
+61548                      Centro Histórico de Sáchica  centro_historico   
+74714                                  Museo Digitarte             museo   
+...                                                ...               ...   
+28271                   Sendero a la Laguna de Iguaque        senderismo   
+52847  Parque Arqueológico de Monquirá (El Infiernito)      arqueologico   
+33370            Caminos Reales (tramo Villa de Leyva)  centro_historico   
+38599                                  Museo Digitarte             museo   
+29387                         FIBAS Jardín de Desierto  centro_historico   
+
+      accesibilidad_general ubicacion_geografica           epoca_visita  \
+55839                  alta       villa_de_leyva  vacaciones_fin_de_ano   
+74143                  alta          santa_sofia          fin_de_semana   
+53722                  alta          santa_sofia         temporada_baja   
+61548                  alta              sachica  vacaciones_fin_de_ano   
+74714                  alta       villa_de_leyva          fin_de_semana   
+...                     ...                  ...                    ...   
+28271                  alta       villa_de_leyva         temporada_baja   
+52847                 media       villa_de_leyva         puente_festivo   
+33370                 media       villa_de_leyva         temporada_baja   
+38599                  alta       villa_de_leyva          fin_de_semana   
+29387                 media       villa_de_leyva           semana_santa   
+
+      restricciones_movilidad  ... costo_entrada admite_mascotas  \
+55839                 ninguna  ...           0.0             1.0   
+74143                 ninguna  ...       12706.0             0.0   
+53722                 ninguna  ...       12706.0             0.0   
+61548                 ninguna  ...           0.0             0.0   
+74714                 ninguna  ...       11299.0             0.0   
+...                       ...  ...           ...             ...   
+28271                 ninguna  ...        3245.0             0.0   
+52847                 ninguna  ...        9271.0             0.0   
+33370                 ninguna  ...        2433.0             1.0   
+38599                 ninguna  ...       11299.0             0.0   
+29387                 ninguna  ...        6771.0             1.0   
+
+      frecuencia_viaje sitios_visitados  calificacion_sitios_previos  \
+55839              5.0             14.0                          3.2   
+74143              2.0              8.0                          4.6   
+53722              3.0             13.0                          2.7   
+61548              2.0             13.0                          5.0   
+74714              3.0              3.0                          3.6   
+...                ...              ...                          ...   
+28271              2.0             16.0                          2.5   
+52847              5.0             27.0                          3.7   
+33370              2.0              6.0                          3.9   
+38599              4.0             11.0                          4.6   
+29387              2.0             19.0                          4.0   
+
+       tiempo_estancia_promedio  afluencia_promedio  duracion_esperada  \
+55839                      35.0                 4.0               22.0   
+74143                      76.0                 4.0              122.0   
+53722                      76.0                 4.0              122.0   
+61548                      57.0                 4.0               46.0   
+74714                      48.0                 4.0               61.0   
+...                         ...                 ...                ...   
+28271                     109.0                 2.0              165.0   
+52847                      42.0                 2.0               62.0   
+33370                      53.0                 3.0               58.0   
+38599                      86.0                 4.0               61.0   
+29387                      29.0                 3.0               20.0   
+
+       ratio_costo_presu  afinidad_tipo  
+55839           0.000000           0.50  
+74143           0.564711           0.90  
+53722           0.417328           0.90  
+61548           0.000000           0.90  
+74714           0.296960           0.50  
+...                  ...            ...  
+28271           0.144222           0.90  
+52847           0.331311           0.85  
+33370           0.108133           0.90  
+38599           0.369419           0.90  
+29387           0.137636           0.90  
+
+[56002 rows x 26 columns]
+2025-10-23 11:32:08,772:INFO:get_config() successfully completed......................................
+2025-10-23 11:35:57,262:INFO:Initializing load_model()
+2025-10-23 11:35:57,262:INFO:load_model(model_name=modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-23 11:35:57,301:INFO:Initializing get_config()
+2025-10-23 11:35:57,301:INFO:get_config(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000021636EFB650>, variable=X_train)
+2025-10-23 11:35:57,301:INFO:Variable: 'X_train' used to return the transformed values in PyCaret 2.x. From PyCaret 3.x, this will return the raw values. If you need the transformed values, call get_config with 'X_train_transformed' instead.
+2025-10-23 11:35:57,301:WARNING:c:\Users\Usuario\anaconda3\envs\villaIA_leyva\Lib\site-packages\pycaret\internal\pycaret_experiment\pycaret_experiment.py:321: UserWarning: Variable: 'X_train' used to return the transformed values in PyCaret 2.x. From PyCaret 3.x, this will return the raw values. If you need the transformed values, call get_config with 'X_train_transformed' instead.
+
+2025-10-23 11:35:57,557:INFO:Variable:  returned as       nacionalidad       origen tipo_turista_preferido compania_viaje  \
+55839     Colombia       Cúcuta             naturaleza         pareja   
+74143     Colombia       Boyacá               cultural           solo   
+53722     Colombia  Bucaramanga               cultural        familia   
+61548     Colombia       Boyacá               cultural         pareja   
+74714     Colombia     Medellín               aventura         pareja   
+...            ...          ...                    ...            ...   
+28271     Colombia        Pasto             naturaleza        familia   
+52847     Colombia  Bucaramanga               cultural         amigos   
+33370     Colombia     Medellín               cultural         pareja   
+38599     Colombia     Medellín               cultural           solo   
+29387     Colombia     Sogamoso               cultural         amigos   
+
+                                          nombre_sitio        tipo_sitio  \
+55839                    Plaza Mayor de Villa de Leyva             plaza   
+74143                  Parque Principal de Santa Sofía             museo   
+53722                  Parque Principal de Santa Sofía             museo   
+61548                      Centro Histórico de Sáchica  centro_historico   
+74714                                  Museo Digitarte             museo   
+...                                                ...               ...   
+28271                   Sendero a la Laguna de Iguaque        senderismo   
+52847  Parque Arqueológico de Monquirá (El Infiernito)      arqueologico   
+33370            Caminos Reales (tramo Villa de Leyva)  centro_historico   
+38599                                  Museo Digitarte             museo   
+29387                         FIBAS Jardín de Desierto  centro_historico   
+
+      accesibilidad_general ubicacion_geografica           epoca_visita  \
+55839                  alta       villa_de_leyva  vacaciones_fin_de_ano   
+74143                  alta          santa_sofia          fin_de_semana   
+53722                  alta          santa_sofia         temporada_baja   
+61548                  alta              sachica  vacaciones_fin_de_ano   
+74714                  alta       villa_de_leyva          fin_de_semana   
+...                     ...                  ...                    ...   
+28271                  alta       villa_de_leyva         temporada_baja   
+52847                 media       villa_de_leyva         puente_festivo   
+33370                 media       villa_de_leyva         temporada_baja   
+38599                  alta       villa_de_leyva          fin_de_semana   
+29387                 media       villa_de_leyva           semana_santa   
+
+      restricciones_movilidad  ... costo_entrada admite_mascotas  \
+55839                 ninguna  ...           0.0             1.0   
+74143                 ninguna  ...       12706.0             0.0   
+53722                 ninguna  ...       12706.0             0.0   
+61548                 ninguna  ...           0.0             0.0   
+74714                 ninguna  ...       11299.0             0.0   
+...                       ...  ...           ...             ...   
+28271                 ninguna  ...        3245.0             0.0   
+52847                 ninguna  ...        9271.0             0.0   
+33370                 ninguna  ...        2433.0             1.0   
+38599                 ninguna  ...       11299.0             0.0   
+29387                 ninguna  ...        6771.0             1.0   
+
+      frecuencia_viaje sitios_visitados  calificacion_sitios_previos  \
+55839              5.0             14.0                          3.2   
+74143              2.0              8.0                          4.6   
+53722              3.0             13.0                          2.7   
+61548              2.0             13.0                          5.0   
+74714              3.0              3.0                          3.6   
+...                ...              ...                          ...   
+28271              2.0             16.0                          2.5   
+52847              5.0             27.0                          3.7   
+33370              2.0              6.0                          3.9   
+38599              4.0             11.0                          4.6   
+29387              2.0             19.0                          4.0   
+
+       tiempo_estancia_promedio  afluencia_promedio  duracion_esperada  \
+55839                      35.0                 4.0               22.0   
+74143                      76.0                 4.0              122.0   
+53722                      76.0                 4.0              122.0   
+61548                      57.0                 4.0               46.0   
+74714                      48.0                 4.0               61.0   
+...                         ...                 ...                ...   
+28271                     109.0                 2.0              165.0   
+52847                      42.0                 2.0               62.0   
+33370                      53.0                 3.0               58.0   
+38599                      86.0                 4.0               61.0   
+29387                      29.0                 3.0               20.0   
+
+       ratio_costo_presu  afinidad_tipo  
+55839           0.000000           0.50  
+74143           0.564711           0.90  
+53722           0.417328           0.90  
+61548           0.000000           0.90  
+74714           0.296960           0.50  
+...                  ...            ...  
+28271           0.144222           0.90  
+52847           0.331311           0.85  
+33370           0.108133           0.90  
+38599           0.369419           0.90  
+29387           0.137636           0.90  
+
+[56002 rows x 26 columns]
+2025-10-23 11:35:57,557:INFO:get_config() successfully completed......................................
+2025-10-23 11:36:14,682:WARNING:C:\Users\Usuario\AppData\Local\Temp\ipykernel_17064\2980922816.py:19: FutureWarning: The provided callable <function nanmean at 0x0000021616D0B7E0> is currently using SeriesGroupBy.mean. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "mean" instead.
+
+2025-10-23 11:36:14,683:WARNING:C:\Users\Usuario\AppData\Local\Temp\ipykernel_17064\2980922816.py:20: FutureWarning: The provided callable <function nanmean at 0x0000021616D0B7E0> is currently using SeriesGroupBy.mean. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "mean" instead.
+
+2025-10-23 11:36:16,649:WARNING:C:\Users\Usuario\AppData\Local\Temp\ipykernel_17064\2980922816.py:19: FutureWarning: The provided callable <function nanmean at 0x0000021616D0B7E0> is currently using SeriesGroupBy.mean. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "mean" instead.
+
+2025-10-23 11:36:16,651:WARNING:C:\Users\Usuario\AppData\Local\Temp\ipykernel_17064\2980922816.py:20: FutureWarning: The provided callable <function nanmean at 0x0000021616D0B7E0> is currently using SeriesGroupBy.mean. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "mean" instead.
+
+2025-10-23 11:36:18,775:WARNING:C:\Users\Usuario\AppData\Local\Temp\ipykernel_17064\2980922816.py:19: FutureWarning: The provided callable <function nanmean at 0x0000021616D0B7E0> is currently using SeriesGroupBy.mean. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "mean" instead.
+
+2025-10-23 11:36:18,775:WARNING:C:\Users\Usuario\AppData\Local\Temp\ipykernel_17064\2980922816.py:20: FutureWarning: The provided callable <function nanmean at 0x0000021616D0B7E0> is currently using SeriesGroupBy.mean. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "mean" instead.
+
+2025-10-23 11:36:38,049:INFO:Initializing load_model()
+2025-10-23 11:36:38,049:INFO:load_model(model_name=modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
