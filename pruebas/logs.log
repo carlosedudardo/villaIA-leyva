@@ -5648,3 +5648,193 @@ Name: id_usuario, Length: 56002, dtype: string, refit=False, probability_thresho
 2025-10-20 17:01:31,226:INFO:CatBoost Classifier Imported successfully
 2025-10-20 17:01:31,234:INFO:Starting cross validation
 2025-10-20 17:01:31,241:INFO:Cross validating with GroupKFold(n_splits=5), n_jobs=1
+2025-10-20 17:11:35,110:INFO:Calculating mean and std
+2025-10-20 17:11:35,112:INFO:Creating metrics dataframe
+2025-10-20 17:11:35,116:INFO:Uploading results into container
+2025-10-20 17:11:35,118:INFO:Uploading model into container now
+2025-10-20 17:11:35,118:INFO:_master_model_container: 14
+2025-10-20 17:11:35,118:INFO:_display_container: 2
+2025-10-20 17:11:35,119:INFO:<catboost.core.CatBoostClassifier object at 0x00000205CE41CB10>
+2025-10-20 17:11:35,119:INFO:create_model() successfully completed......................................
+2025-10-20 17:11:35,382:INFO:SubProcess create_model() end ==================================
+2025-10-20 17:11:35,382:INFO:Creating metrics dataframe
+2025-10-20 17:11:35,396:INFO:Initializing Dummy Classifier
+2025-10-20 17:11:35,396:INFO:Total runtime is 21.275583704312645 minutes
+2025-10-20 17:11:35,405:INFO:SubProcess create_model() called ==================================
+2025-10-20 17:11:35,407:INFO:Initializing create_model()
+2025-10-20 17:11:35,407:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000205C027A190>, estimator=dummy, fold=GroupKFold(n_splits=5), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=32154    U03414
+68009    U17308
+1824     U12762
+75397    U07624
+23473    U18934
+          ...  
+35260    U12386
+50954    U06674
+25252    U13215
+28251    U19459
+58112    U06862
+Name: id_usuario, Length: 56002, dtype: string, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x00000205CDD920D0>, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-20 17:11:35,407:INFO:Checking exceptions
+2025-10-20 17:11:35,407:INFO:Importing libraries
+2025-10-20 17:11:35,407:INFO:Copying training dataset
+2025-10-20 17:11:35,781:INFO:Defining folds
+2025-10-20 17:11:35,782:INFO:Declaring metric variables
+2025-10-20 17:11:35,787:INFO:Importing untrained model
+2025-10-20 17:11:35,795:INFO:Dummy Classifier Imported successfully
+2025-10-20 17:11:35,812:INFO:Starting cross validation
+2025-10-20 17:11:35,834:INFO:Cross validating with GroupKFold(n_splits=5), n_jobs=1
+2025-10-20 17:11:43,000:WARNING:c:\Users\Usuario\anaconda3\envs\nuevo_env\Lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+
+2025-10-20 17:11:49,899:WARNING:c:\Users\Usuario\anaconda3\envs\nuevo_env\Lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+
+2025-10-20 17:11:56,654:WARNING:c:\Users\Usuario\anaconda3\envs\nuevo_env\Lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+
+2025-10-20 17:12:03,624:WARNING:c:\Users\Usuario\anaconda3\envs\nuevo_env\Lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+
+2025-10-20 17:12:10,006:WARNING:c:\Users\Usuario\anaconda3\envs\nuevo_env\Lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+
+2025-10-20 17:12:10,042:INFO:Calculating mean and std
+2025-10-20 17:12:10,045:INFO:Creating metrics dataframe
+2025-10-20 17:12:10,052:INFO:Uploading results into container
+2025-10-20 17:12:10,055:INFO:Uploading model into container now
+2025-10-20 17:12:10,056:INFO:_master_model_container: 15
+2025-10-20 17:12:10,056:INFO:_display_container: 2
+2025-10-20 17:12:10,056:INFO:DummyClassifier(constant=None, random_state=4841, strategy='prior')
+2025-10-20 17:12:10,056:INFO:create_model() successfully completed......................................
+2025-10-20 17:12:10,310:INFO:SubProcess create_model() end ==================================
+2025-10-20 17:12:10,311:INFO:Creating metrics dataframe
+2025-10-20 17:12:10,338:WARNING:c:\Users\Usuario\anaconda3\envs\nuevo_env\Lib\site-packages\pycaret\internal\pycaret_experiment\supervised_experiment.py:339: FutureWarning: Styler.applymap has been deprecated. Use Styler.map instead.
+
+2025-10-20 17:12:10,360:INFO:Initializing create_model()
+2025-10-20 17:12:10,361:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000205C027A190>, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=4841, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), fold=GroupKFold(n_splits=5), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=32154    U03414
+68009    U17308
+1824     U12762
+75397    U07624
+23473    U18934
+          ...  
+35260    U12386
+50954    U06674
+25252    U13215
+28251    U19459
+58112    U06862
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-20 17:12:10,361:INFO:Checking exceptions
+2025-10-20 17:12:10,364:INFO:Importing libraries
+2025-10-20 17:12:10,365:INFO:Copying training dataset
+2025-10-20 17:12:10,782:INFO:Defining folds
+2025-10-20 17:12:10,782:INFO:Declaring metric variables
+2025-10-20 17:12:10,783:INFO:Importing untrained model
+2025-10-20 17:12:10,783:INFO:Declaring custom model
+2025-10-20 17:12:10,785:INFO:Gradient Boosting Classifier Imported successfully
+2025-10-20 17:12:10,803:INFO:Cross validation set to False
+2025-10-20 17:12:10,803:INFO:Fitting Model
+2025-10-20 17:13:20,079:INFO:GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=4841, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)
+2025-10-20 17:13:20,079:INFO:create_model() successfully completed......................................
+2025-10-20 17:13:20,381:INFO:Initializing create_model()
+2025-10-20 17:13:20,381:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000205C027A190>, estimator=RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=4841, solver='auto',
+                tol=0.0001), fold=GroupKFold(n_splits=5), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=32154    U03414
+68009    U17308
+1824     U12762
+75397    U07624
+23473    U18934
+          ...  
+35260    U12386
+50954    U06674
+25252    U13215
+28251    U19459
+58112    U06862
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-20 17:13:20,381:INFO:Checking exceptions
+2025-10-20 17:13:20,383:INFO:Importing libraries
+2025-10-20 17:13:20,384:INFO:Copying training dataset
+2025-10-20 17:13:20,826:INFO:Defining folds
+2025-10-20 17:13:20,826:INFO:Declaring metric variables
+2025-10-20 17:13:20,826:INFO:Importing untrained model
+2025-10-20 17:13:20,826:INFO:Declaring custom model
+2025-10-20 17:13:20,827:INFO:Ridge Classifier Imported successfully
+2025-10-20 17:13:20,835:INFO:Cross validation set to False
+2025-10-20 17:13:20,835:INFO:Fitting Model
+2025-10-20 17:13:28,878:INFO:RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=4841, solver='auto',
+                tol=0.0001)
+2025-10-20 17:13:28,879:INFO:create_model() successfully completed......................................
+2025-10-20 17:13:29,123:INFO:Initializing create_model()
+2025-10-20 17:13:29,123:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000205C027A190>, estimator=LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001), fold=GroupKFold(n_splits=5), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=32154    U03414
+68009    U17308
+1824     U12762
+75397    U07624
+23473    U18934
+          ...  
+35260    U12386
+50954    U06674
+25252    U13215
+28251    U19459
+58112    U06862
+Name: id_usuario, Length: 56002, dtype: string, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, error_score=0.0, kwargs={})
+2025-10-20 17:13:29,123:INFO:Checking exceptions
+2025-10-20 17:13:29,125:INFO:Importing libraries
+2025-10-20 17:13:29,125:INFO:Copying training dataset
+2025-10-20 17:13:29,528:INFO:Defining folds
+2025-10-20 17:13:29,528:INFO:Declaring metric variables
+2025-10-20 17:13:29,528:INFO:Importing untrained model
+2025-10-20 17:13:29,528:INFO:Declaring custom model
+2025-10-20 17:13:29,529:INFO:Linear Discriminant Analysis Imported successfully
+2025-10-20 17:13:29,543:INFO:Cross validation set to False
+2025-10-20 17:13:29,543:INFO:Fitting Model
+2025-10-20 17:13:38,968:INFO:LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)
+2025-10-20 17:13:38,968:INFO:create_model() successfully completed......................................
+2025-10-20 17:13:39,314:INFO:_master_model_container: 15
+2025-10-20 17:13:39,315:INFO:_display_container: 2
+2025-10-20 17:13:39,318:INFO:[GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=4841, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), RidgeClassifier(alpha=1.0, class_weight=None, copy_X=True, fit_intercept=True,
+                max_iter=None, positive=False, random_state=4841, solver='auto',
+                tol=0.0001), LinearDiscriminantAnalysis(covariance_estimator=None, n_components=None,
+                           priors=None, shrinkage=None, solver='svd',
+                           store_covariance=False, tol=0.0001)]
+2025-10-20 17:13:39,318:INFO:compare_models() successfully completed......................................
+2025-10-20 17:13:39,321:INFO:Initializing tune_model()
+2025-10-20 17:13:39,321:INFO:tune_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000205C027A190>, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='log_loss', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_samples_leaf=1,
+                           min_samples_split=2, min_weight_fraction_leaf=0.0,
+                           n_estimators=100, n_iter_no_change=None,
+                           random_state=4841, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), fold=None, round=4, n_iter=10, custom_grid=None, optimize=AUC, custom_scorer=None, search_library=scikit-learn, search_algorithm=None, early_stopping=False, early_stopping_max_iters=10, choose_better=True, fit_kwargs=None, groups=None, return_tuner=False, verbose=True, tuner_verbose=True, return_train_score=False, kwargs={})
+2025-10-20 17:13:39,321:INFO:Checking exceptions
+2025-10-20 17:13:39,534:INFO:Copying training dataset
+2025-10-20 17:13:39,898:INFO:Checking base model
+2025-10-20 17:13:39,898:INFO:Base model : Gradient Boosting Classifier
+2025-10-20 17:13:39,906:INFO:Declaring metric variables
+2025-10-20 17:13:39,914:INFO:Defining Hyperparameters
+2025-10-20 17:13:40,207:INFO:Tuning with n_jobs=1
+2025-10-20 17:13:40,207:INFO:Initializing RandomizedSearchCV

@@ -1,0 +1,88 @@
+﻿nombre_sitio;tipo_sitio;ubicacion_geografica;clima_predominante;costo_entrada;afluencia_promedio;accesibilidad_general;duracion_esperada;admite_mascotas;idioma_info
+Plaza Mayor de Villa de Leyva;plaza;Villa de Leyva;templado_seco;0;4;alta;22;1;es
+Templo Parroquial Nuestra Señora del Rosario;religioso;Villa de Leyva;templado_seco;5000;4;alta;33;0;es/en
+Casa del Primer Congreso de Colombia;arquitectura;Villa de Leyva;templado_seco;8000;3;alta;77;0;es
+Parque Antonio Ricaurte;parque_tematico;Villa de Leyva;templado_seco;15305;4;alta;108;1;es
+Casa Museo Antonio Ricaurte;museo;Villa de Leyva;templado_seco;7177;5;alta;97;0;es/en
+Casa Museo Antonio Nariño;museo;Villa de Leyva;templado_seco;4000;4;media;85;0;es/en
+Museo de Arte Religioso El Carmen;museo;Villa de Leyva;templado_seco;11913;5;alta;89;0;es
+Casa Museo Luis Alberto Acuña;museo;Villa de Leyva;templado_seco;8100;5;alta;84;0;es/en
+Molino del Mesopotamia;arquitectura;Villa de Leyva;templado_seco;2000;3;alta;34;0;es
+Plazuela del Carmen;arquitectura;Villa de Leyva;templado_seco;2000;4;media;47;1;es/en
+Claustro de San Agustín (Instituto Humboldt);religioso;Villa de Leyva;templado_seco;5000;2;alta;47;0;es/en
+Mirador El Santo (Sagrado Corazón);mirador;Villa de Leyva;templado_seco;5000;3;media;58;1;es
+Museo del Chocolate;museo;Villa de Leyva;templado_seco;10730;5;media;150;1;es/en
+Plaza de Mercado de Villa de Leyva;gastronomico;Villa de Leyva;templado_seco;5000;4;media;82;1;es
+Portales de la Plaza (Los Portales);plaza;Villa de Leyva;templado_seco;0;4;alta;68;1;es
+Calle Caliente (Calle 13);arquitectura;Villa de Leyva;templado_seco;2000;3;alta;69;0;es
+Centro Histórico de Villa de Leyva;centro_historico;Villa de Leyva;templado_seco;2000;5;alta;48;1;es/en
+Museo Digitarte;museo;Villa de Leyva;templado_seco;11299;4;alta;61;0;es
+Centro Cultural Casa Quintero;histórico;Villa de Leyva;templado_seco;8396;3;media;63;1;es
+Antigua Estación de Policía;histórico;Villa de Leyva;templado_seco;0;1;media;30;1;es
+Museo del Carmen - Café del Museo;museo;Villa de Leyva;templado_seco;9018;4;alta;85;0;es/en
+Pueblito de los Artesanos;gastronomico;Villa de Leyva;templado_seco;0;2;media;69;1;es/en
+Museo Paleontológico (Molino de la Osada);museo;Villa de Leyva;templado_seco;8306;3;media;109;0;es/en
+Museo El Fósil (Kronosaurio);museo;Villa de Leyva;templado_seco;17340;4;alta;93;0;es/en
+Centro de Investigaciones Paleontológicas (CIP);museo;Villa de Leyva;templado_seco;8338;4;alta;40;0;es
+Museo del Fósil Chico (colecciones locales);museo;Villa de Leyva;templado_seco;13143;4;alta;101;0;es
+Jardín Paleobotánico (UNAL);histórico;Villa de Leyva;templado_seco;0;1;media;78;1;es
+Casa Terracota;arquitectura;Villa de Leyva;templado_seco;0;2;media;20;1;es
+Pozos Azules;naturaleza;Villa de Leyva;templado_seco;269;4;media;129;1;es
+FIBAS Jardín de Desierto;histórico;Villa de Leyva;templado_seco;6771;3;media;20;1;es/en
+Eco Parque Conscientia Universallis;parque_tematico;Villa de Leyva;templado_seco;27066;2;alta;124;0;es
+Caminos Reales (tramo Villa de Leyva);histórico;Villa de Leyva;templado_seco;2433;3;media;58;1;es/en
+Sendero Dunas y Secos;senderismo;Villa de Leyva;templado_seco;7368;3;alta;187;1;es
+Quebrada La Colorada (sendero);senderismo;Villa de Leyva;templado_seco;7323;3;alta;174;0;es
+Mirador Alto de los Migueles;mirador;Villa de Leyva;templado_seco;2000;3;alta;64;1;es/en
+Sendero a Pozos Azules (circuito);naturaleza;Villa de Leyva;templado_seco;8561;4;media;129;0;es
+Parque Lineal Río Cane;parque_tematico;Villa de Leyva;templado_seco;16868;3;media;154;0;es
+Ruta Panorámica a Santa Sofía;senderismo;Villa de Leyva;templado_seco;4534;3;media;203;0;es/en
+Parque Arqueológico de Monquirá (El Infiernito);arqueologico;Villa de Leyva;templado_seco;9271;2;media;62;0;es
+Museo Comunitario veredal (Monquirá);museo;Villa de Leyva;templado_seco;10517;3;alta;88;0;es
+Viñedo Ain Karim (Marqués de Villa de Leyva);gastronomico;Sutamarchán;templado_seco;7000;3;media;81;0;es
+Viñedo Umaña Dajud;gastronomico;Sáchica;seco;3000;2;media;125;1;es
+Viñedo Local Artesanal (Vereda Ritoque);gastronomico;Villa de Leyva;templado_seco;0;4;media;84;1;es/en
+Gondava - Gran Valle de los Dinosaurios;parque_tematico;Sáchica;seco;17367;1;media;177;1;es
+Observatorio Astronómico de Zaquencipá;museo;Santa Sofía;templado_seco;11366;3;alta;79;0;es
+Paso del Ángel;histórico;Santa Sofía;templado_seco;7217;3;media;33;1;es
+Cueva de la Fábrica;senderismo;Santa Sofía;templado_seco;1634;3;baja;200;0;es
+Cueva del Indio (Santa Sofía);senderismo;Santa Sofía;templado_seco;2252;2;media;200;1;es
+Cascada La Juetera;naturaleza;Santa Sofía;templado_seco;8269;3;media;90;0;es
+Hoyo de la Romera;histórico;Santa Sofía;templado_seco;7937;4;media;20;1;es
+Iglesia Colonial de Santa Sofía;religioso;Santa Sofía;templado_seco;5000;3;alta;30;0;es
+Parque Principal de Santa Sofía;museo;Santa Sofía;templado_seco;12706;4;alta;122;0;es
+Mirador Valle de Zaquencipá;museo;Santa Sofía;templado_seco;4412;4;alta;109;0;es
+Mirador Alto de Mazamorral;mirador;Santa Sofía;templado_seco;0;2;baja;56;1;es
+Sendero Cañón del Río Cane;senderismo;Santa Sofía;templado_seco;0;3;media;204;1;es
+Cascada Paso del Ángel;naturaleza;Santa Sofía;templado_seco;5775;3;baja;103;1;es/en
+Cascada La Periquera;naturaleza;Gachantivá;templado_humedo;0;2;baja;106;1;es/en
+Cascada La Honda;naturaleza;Gachantivá;templado_humedo;11393;2;baja;145;1;es
+Cascada Las Golondrinas;naturaleza;Gachantivá;templado_humedo;2564;2;media;66;1;es
+Cascada El Campanario;naturaleza;Gachantivá;templado_humedo;14698;1;baja;145;0;es
+Cascadas Buena Vista;naturaleza;Gachantivá;templado_humedo;6840;2;media;119;1;es
+Cascadas El Mohán;naturaleza;Gachantivá;templado_humedo;9373;3;baja;62;1;es
+Cascadas La Casequilla;naturaleza;Gachantivá;templado_humedo;8294;3;baja;107;0;es
+Cascadas Piedra Negra;naturaleza;Gachantivá;templado_humedo;13190;2;media;117;0;es
+Cueva del Indio (Gachantivá);senderismo;Gachantivá;templado_humedo;4911;1;baja;177;0;es
+Balneario Natural La Vega;naturaleza;Gachantivá;templado_humedo;1433;3;media;77;0;es
+Ecoparque Guatoc;parque_tematico;Gachantivá;templado_humedo;12070;3;media;97;1;es
+Mirador Alto del Ángel (Gachantivá);mirador;Gachantivá;templado_humedo;2000;3;media;29;1;es
+Desierto de la Candelaria;histórico;Ráquira;seco;2331;2;media;52;0;es
+Monasterio de la Candelaria;religioso;Ráquira;seco;0;1;media;31;0;es
+Plaza Principal de Ráquira;plaza;Ráquira;seco;2000;4;media;61;1;es
+Calle de las Artesanías (Ráquira);gastronomico;Ráquira;seco;7000;2;media;94;0;es
+Centro Histórico de Ráquira;centro_historico;Ráquira;seco;0;2;media;20;1;es
+Templo Doctrinero de San Lorenzo (Sáchica);religioso;Sáchica;seco;5000;3;alta;52;0;es/en
+Parque Principal de Sáchica;museo;Sáchica;seco;10388;2;alta;98;0;es
+Centro Histórico de Sáchica;centro_historico;Sáchica;seco;0;4;alta;46;0;es
+Convento Santo Ecce Homo (Museo);museo;Sutamarchán;templado_seco;13882;3;alta;100;0;es
+Ruta de la Longaniza (Sutamarchán);senderismo;Sutamarchán;templado_seco;0;3;media;210;1;es
+Parque Principal de Sutamarchán;museo;Sutamarchán;templado_seco;8621;4;media;108;0;es
+Centro Histórico de Sutamarchán;centro_historico;Sutamarchán;templado_seco;2000;4;alta;59;1;es
+Reserva Rogitama Biodiversidad;histórico;Arcabuco;frio_humedo;1735;2;media;76;0;es
+Centro de Visitantes SFF Iguaque (Carrizal);histórico;Arcabuco;frio_humedo;10151;3;media;74;0;es
+Santuario de Fauna y Flora Iguaque - Acceso;histórico;Chíquiza;frio_seco;4300;1;media;70;1;es
+Sendero a la Laguna de Iguaque;senderismo;Villa de Leyva;templado_seco;3245;2;alta;165;0;es
+Humedal El Carrizal;naturaleza;Chíquiza;frio_seco;5225;2;media;112;1;es
+Sora - Mirador Alto de Sora;mirador;Sora;templado;0;3;media;49;0;es
+Samacá - Cerro Mirador;mirador;Samacá;frio;5000;3;baja;22;1;es
