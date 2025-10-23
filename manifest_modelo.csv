@@ -1,0 +1,7 @@
+﻿,0
+cat_cols_x,"['nacionalidad', 'origen', 'tipo_turista_preferido', 'compania_viaje', 'nombre_sitio', 'tipo_sitio', 'accesibilidad_general', 'ubicacion_geografica', 'epoca_visita', 'restricciones_movilidad', 'idioma_info', 'clima_predominante', 'x_tipoTur__tipoSit', 'x_epoca__tipoSit']"
+num_cols_x,"['edad', 'presupuesto_estimado', 'costo_entrada', 'admite_mascotas', 'frecuencia_viaje', 'sitios_visitados', 'calificacion_sitios_previos', 'tiempo_estancia_promedio', 'afluencia_promedio', 'duracion_esperada', 'ratio_costo_presu', 'afinidad_tipo']"
+features_prep_seen,"['nacionalidad', 'origen', 'tipo_turista_preferido', 'compania_viaje', 'nombre_sitio', 'tipo_sitio', 'accesibilidad_general', 'ubicacion_geografica', 'epoca_visita', 'restricciones_movilidad', 'idioma_info', 'clima_predominante', 'x_tipoTur__tipoSit', 'x_epoca__tipoSit', 'edad', 'presupuesto_estimado', 'costo_entrada', 'admite_mascotas', 'frecuencia_viaje', 'sitios_visitados', 'calificacion_sitios_previos', 'tiempo_estancia_promedio', 'afluencia_promedio', 'duracion_esperada', 'ratio_costo_presu', 'afinidad_tipo']"
+model_name,modelo_cls_like_v3
+fold_strategy,groupkfold
+fold_groups,id_usuario
