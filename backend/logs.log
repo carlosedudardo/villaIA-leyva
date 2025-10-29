@@ -1,0 +1,1805 @@
+2025-10-29 11:39:30,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:39:30,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:39:30,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:39:30,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:39:38,633:INFO:Initializing load_model()
+2025-10-29 11:39:38,634:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3.pkl, platform=None, authentication=None, verbose=True)
+2025-10-29 11:53:16,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:53:16,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:53:16,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:53:16,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 11:53:18,645:INFO:Initializing load_model()
+2025-10-29 11:53:18,645:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:05:35,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:05:35,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:05:35,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:05:35,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:05:37,496:INFO:Initializing load_model()
+2025-10-29 12:05:37,496:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:07:12,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:07:12,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:07:12,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:07:12,383:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:07:14,651:INFO:Initializing load_model()
+2025-10-29 12:07:14,651:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:08:11,612:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:11,612:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:11,612:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:11,612:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:13,426:INFO:Initializing load_model()
+2025-10-29 12:08:13,426:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:08:53,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:53,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:53,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:53,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:08:56,171:INFO:Initializing load_model()
+2025-10-29 12:08:56,171:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:09:00,944:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:00,944:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:00,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:00,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:02,786:INFO:Initializing load_model()
+2025-10-29 12:09:02,787:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:09:07,263:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:07,263:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:07,263:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:07,263:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:09,371:INFO:Initializing load_model()
+2025-10-29 12:09:09,371:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:09:13,571:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:13,571:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:13,571:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:13,571:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:15,634:INFO:Initializing load_model()
+2025-10-29 12:09:15,634:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:09:20,193:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:20,194:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:20,194:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:20,194:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:22,189:INFO:Initializing load_model()
+2025-10-29 12:09:22,190:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:09:26,090:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:26,090:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:26,090:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:26,090:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:27,873:INFO:Initializing load_model()
+2025-10-29 12:09:27,873:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:09:39,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:39,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:39,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:39,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:09:41,657:INFO:Initializing load_model()
+2025-10-29 12:09:41,657:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:14:12,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:14:12,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:14:12,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:14:12,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:14:13,877:INFO:Initializing load_model()
+2025-10-29 12:14:13,877:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:14:53,530:INFO:Initializing predict_model()
+2025-10-29 12:14:53,530:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000020E2BBA28D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000020E2F6F34D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000020E13E4B7E0>)
+2025-10-29 12:14:53,530:INFO:Checking exceptions
+2025-10-29 12:14:53,530:INFO:Preloading libraries
+2025-10-29 12:14:53,530:INFO:Set up data.
+2025-10-29 12:14:53,542:INFO:Set up index.
+2025-10-29 12:19:55,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:19:55,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:19:55,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:19:55,175:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:19:57,331:INFO:Initializing load_model()
+2025-10-29 12:19:57,332:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:20:01,912:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:01,912:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:01,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:01,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:04,064:INFO:Initializing load_model()
+2025-10-29 12:20:04,064:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:20:31,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:31,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:31,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:31,470:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:33,409:INFO:Initializing load_model()
+2025-10-29 12:20:33,409:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:20:51,839:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:51,839:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:51,839:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:51,839:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:20:53,821:INFO:Initializing load_model()
+2025-10-29 12:20:53,821:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:22:04,336:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:04,337:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:04,337:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:04,337:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:06,331:INFO:Initializing load_model()
+2025-10-29 12:22:06,331:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:22:24,567:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:24,567:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:24,567:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:24,567:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:22:26,407:INFO:Initializing load_model()
+2025-10-29 12:22:26,407:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:30:36,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:30:36,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:30:36,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:30:36,339:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:30:38,688:INFO:Initializing load_model()
+2025-10-29 12:30:38,689:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:31:03,679:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:31:03,680:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:31:03,680:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:31:03,680:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:31:05,444:INFO:Initializing load_model()
+2025-10-29 12:31:05,444:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:31:12,119:INFO:Initializing predict_model()
+2025-10-29 12:31:12,119:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000026F83E0DC90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000026F876C25D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000026F87C9E020>)
+2025-10-29 12:31:12,119:INFO:Checking exceptions
+2025-10-29 12:31:12,119:INFO:Preloading libraries
+2025-10-29 12:31:12,119:INFO:Set up data.
+2025-10-29 12:31:12,123:INFO:Set up index.
+2025-10-29 12:31:12,188:INFO:Initializing predict_model()
+2025-10-29 12:31:12,188:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000026F83E43050>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000026F876C25D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000026F87C9EDE0>)
+2025-10-29 12:31:12,188:INFO:Checking exceptions
+2025-10-29 12:31:12,189:INFO:Preloading libraries
+2025-10-29 12:31:12,189:INFO:Set up data.
+2025-10-29 12:31:12,209:INFO:Set up index.
+2025-10-29 12:51:13,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:13,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:13,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:13,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:18,912:INFO:Initializing load_model()
+2025-10-29 12:51:18,912:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:51:24,912:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:24,912:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:24,912:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:24,912:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:26,838:INFO:Initializing load_model()
+2025-10-29 12:51:26,838:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:51:31,686:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:31,686:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:31,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:31,687:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:33,597:INFO:Initializing load_model()
+2025-10-29 12:51:33,598:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:51:38,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:38,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:38,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:38,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:51:40,330:INFO:Initializing load_model()
+2025-10-29 12:51:40,330:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:52:20,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:20,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:20,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:20,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:22,468:INFO:Initializing load_model()
+2025-10-29 12:52:22,468:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:52:44,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:44,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:44,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:44,763:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:47,105:INFO:Initializing load_model()
+2025-10-29 12:52:47,106:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:52:51,934:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:51,934:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:51,934:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:51,934:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:54,161:INFO:Initializing load_model()
+2025-10-29 12:52:54,161:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:52:59,333:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:59,333:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:59,333:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:52:59,333:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:53:01,512:INFO:Initializing load_model()
+2025-10-29 12:53:01,512:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 12:57:39,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:57:39,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:57:39,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:57:39,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 12:57:41,558:INFO:Initializing load_model()
+2025-10-29 12:57:41,559:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:01:42,781:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:42,782:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:42,782:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:42,782:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:44,947:INFO:Initializing load_model()
+2025-10-29 13:01:44,948:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:01:59,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:59,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:59,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:01:59,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:02:01,496:INFO:Initializing load_model()
+2025-10-29 13:02:01,496:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:02:45,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:02:45,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:02:45,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:02:45,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:02:47,153:INFO:Initializing load_model()
+2025-10-29 13:02:47,154:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:03:24,237:INFO:Initializing predict_model()
+2025-10-29 13:03:24,237:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001D1A8259410>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001D1ABA23A10>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D1ABFDE160>)
+2025-10-29 13:03:24,238:INFO:Checking exceptions
+2025-10-29 13:03:24,238:INFO:Preloading libraries
+2025-10-29 13:03:24,238:INFO:Set up data.
+2025-10-29 13:03:24,245:INFO:Set up index.
+2025-10-29 13:03:24,332:INFO:Initializing predict_model()
+2025-10-29 13:03:24,332:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001D1ABFB0310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001D1ABA23A10>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D1ABFDF100>)
+2025-10-29 13:03:24,332:INFO:Checking exceptions
+2025-10-29 13:03:24,333:INFO:Preloading libraries
+2025-10-29 13:03:24,333:INFO:Set up data.
+2025-10-29 13:03:24,355:INFO:Set up index.
+2025-10-29 13:08:13,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:13,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:13,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:13,517:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:15,778:INFO:Initializing load_model()
+2025-10-29 13:08:15,778:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:08:24,258:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:24,258:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:24,258:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:24,258:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:08:26,040:INFO:Initializing load_model()
+2025-10-29 13:08:26,041:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:08:37,871:INFO:Initializing predict_model()
+2025-10-29 13:08:37,871:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F3B07A9410>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001F3B4058BD0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001F3B454E0C0>)
+2025-10-29 13:08:37,871:INFO:Checking exceptions
+2025-10-29 13:08:37,871:INFO:Preloading libraries
+2025-10-29 13:08:37,872:INFO:Set up data.
+2025-10-29 13:08:37,890:INFO:Set up index.
+2025-10-29 13:09:35,255:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:09:35,255:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:09:35,255:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:09:35,255:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:09:36,983:INFO:Initializing load_model()
+2025-10-29 13:09:36,983:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:10:01,207:INFO:Initializing predict_model()
+2025-10-29 13:10:01,207:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000016442CE3950>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000016442B134D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000016442D0E0C0>)
+2025-10-29 13:10:01,207:INFO:Checking exceptions
+2025-10-29 13:10:01,207:INFO:Preloading libraries
+2025-10-29 13:10:01,207:INFO:Set up data.
+2025-10-29 13:10:01,215:INFO:Set up index.
+2025-10-29 13:14:12,166:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:12,166:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:12,166:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:12,166:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:14,518:INFO:Initializing load_model()
+2025-10-29 13:14:14,519:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:14:19,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:19,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:19,042:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:19,042:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:20,880:INFO:Initializing load_model()
+2025-10-29 13:14:20,881:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:14:25,576:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:25,576:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:25,576:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:25,576:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:27,862:INFO:Initializing load_model()
+2025-10-29 13:14:27,862:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:14:32,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:32,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:32,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:32,269:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:34,188:INFO:Initializing load_model()
+2025-10-29 13:14:34,188:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:14:59,487:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:59,487:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:59,487:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:14:59,488:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:01,592:INFO:Initializing load_model()
+2025-10-29 13:15:01,592:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:15:15,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:15,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:15,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:15,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:17,967:INFO:Initializing load_model()
+2025-10-29 13:15:17,967:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:15:29,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:29,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:29,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:29,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:15:31,585:INFO:Initializing load_model()
+2025-10-29 13:15:31,585:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:16:07,088:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:07,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:07,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:07,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:08,847:INFO:Initializing load_model()
+2025-10-29 13:16:08,848:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:16:40,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:40,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:40,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:40,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:16:42,437:INFO:Initializing load_model()
+2025-10-29 13:16:42,437:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:18:37,266:INFO:Initializing predict_model()
+2025-10-29 13:18:37,266:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000023E17DE4CD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000023E1B6DED10>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000023E1BB9DF80>)
+2025-10-29 13:18:37,266:INFO:Checking exceptions
+2025-10-29 13:18:37,266:INFO:Preloading libraries
+2025-10-29 13:18:37,266:INFO:Set up data.
+2025-10-29 13:18:37,278:INFO:Set up index.
+2025-10-29 13:20:44,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:20:44,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:20:44,639:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:20:44,639:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:20:47,077:INFO:Initializing load_model()
+2025-10-29 13:20:47,078:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:20:53,000:INFO:Initializing predict_model()
+2025-10-29 13:20:53,001:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001CB93F829D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001CB93E58250>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001CB944A9F80>)
+2025-10-29 13:20:53,001:INFO:Checking exceptions
+2025-10-29 13:20:53,001:INFO:Preloading libraries
+2025-10-29 13:20:53,001:INFO:Set up data.
+2025-10-29 13:20:53,020:INFO:Set up index.
+2025-10-29 13:37:25,130:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:25,130:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:25,130:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:25,130:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:27,638:INFO:Initializing load_model()
+2025-10-29 13:37:27,638:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:37:40,705:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:40,706:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:40,706:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:40,706:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:42,715:INFO:Initializing load_model()
+2025-10-29 13:37:42,715:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:37:55,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:55,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:55,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:55,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:37:57,758:INFO:Initializing load_model()
+2025-10-29 13:37:57,758:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:38:38,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:38,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:38,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:38,945:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:40,834:INFO:Initializing load_model()
+2025-10-29 13:38:40,835:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:38:58,982:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:58,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:58,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:38:58,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:39:00,906:INFO:Initializing load_model()
+2025-10-29 13:39:00,906:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:39:39,481:INFO:Initializing predict_model()
+2025-10-29 13:39:39,481:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B110604C50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001B10F0526D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B1105CE2A0>)
+2025-10-29 13:39:39,481:INFO:Checking exceptions
+2025-10-29 13:39:39,481:INFO:Preloading libraries
+2025-10-29 13:39:39,481:INFO:Set up data.
+2025-10-29 13:39:39,493:INFO:Set up index.
+2025-10-29 13:41:31,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:41:31,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:41:31,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:41:31,734:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:41:33,600:INFO:Initializing load_model()
+2025-10-29 13:41:33,600:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:42:07,659:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:07,659:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:07,659:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:07,659:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:10,186:INFO:Initializing load_model()
+2025-10-29 13:42:10,186:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:42:46,079:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:46,079:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:46,079:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:46,079:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:48,435:INFO:Initializing load_model()
+2025-10-29 13:42:48,436:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:42:56,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:56,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:56,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:56,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:42:58,671:INFO:Initializing load_model()
+2025-10-29 13:42:58,671:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:42:59,732:INFO:Initializing predict_model()
+2025-10-29 13:42:59,732:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001CAF1E12A50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001CAF1B25850>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001CAD646B9C0>)
+2025-10-29 13:42:59,732:INFO:Checking exceptions
+2025-10-29 13:42:59,732:INFO:Preloading libraries
+2025-10-29 13:42:59,733:INFO:Set up data.
+2025-10-29 13:42:59,745:INFO:Set up index.
+2025-10-29 13:48:05,458:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:48:05,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:48:05,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:48:05,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 13:48:07,605:INFO:Initializing load_model()
+2025-10-29 13:48:07,605:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 13:48:24,793:INFO:Initializing predict_model()
+2025-10-29 13:48:24,793:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000254FBC1EA50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x00000254FF572610>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000254FFA1A340>)
+2025-10-29 13:48:24,793:INFO:Checking exceptions
+2025-10-29 13:48:24,793:INFO:Preloading libraries
+2025-10-29 13:48:24,793:INFO:Set up data.
+2025-10-29 13:48:24,804:INFO:Set up index.
+2025-10-29 16:10:39,684:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:10:39,684:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:10:39,684:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:10:39,684:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:10:41,664:INFO:Initializing load_model()
+2025-10-29 16:10:41,664:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:11:03,794:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:11:03,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:11:03,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:11:03,795:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:11:05,516:INFO:Initializing load_model()
+2025-10-29 16:11:05,516:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:11:27,489:INFO:Initializing predict_model()
+2025-10-29 16:11:27,490:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001E5E7AD1250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001E5E8CD94D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E5EA26A520>)
+2025-10-29 16:11:27,490:INFO:Checking exceptions
+2025-10-29 16:11:27,490:INFO:Preloading libraries
+2025-10-29 16:11:27,490:INFO:Set up data.
+2025-10-29 16:11:27,511:INFO:Set up index.
+2025-10-29 16:13:12,701:INFO:Initializing predict_model()
+2025-10-29 16:13:12,701:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001E5EA2326D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000001E5E8CD94D0>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001E5E7C19120>)
+2025-10-29 16:13:12,701:INFO:Checking exceptions
+2025-10-29 16:13:12,701:INFO:Preloading libraries
+2025-10-29 16:13:12,701:INFO:Set up data.
+2025-10-29 16:13:12,709:INFO:Set up index.
+2025-10-29 16:17:28,366:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:28,366:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:28,366:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:28,366:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:30,548:INFO:Initializing load_model()
+2025-10-29 16:17:30,549:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:17:57,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:57,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:57,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:57,631:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:17:59,619:INFO:Initializing load_model()
+2025-10-29 16:17:59,620:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:19:24,048:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:24,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:24,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:24,049:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:25,835:INFO:Initializing load_model()
+2025-10-29 16:19:25,836:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:19:51,324:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:51,325:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:51,325:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:51,325:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:19:53,099:INFO:Initializing load_model()
+2025-10-29 16:19:53,099:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:20:12,320:INFO:Initializing predict_model()
+2025-10-29 16:20:12,320:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000172E17B2D90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x00000172E5103610>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000172C9A7BBA0>)
+2025-10-29 16:20:12,320:INFO:Checking exceptions
+2025-10-29 16:20:12,320:INFO:Preloading libraries
+2025-10-29 16:20:12,320:INFO:Set up data.
+2025-10-29 16:20:12,333:INFO:Set up index.
+2025-10-29 16:47:00,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:00,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:00,131:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:00,132:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:03,516:INFO:Initializing load_model()
+2025-10-29 16:47:03,516:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:47:56,613:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:56,613:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:56,613:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:56,613:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:47:58,527:INFO:Initializing load_model()
+2025-10-29 16:47:58,528:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:48:39,599:INFO:Initializing predict_model()
+2025-10-29 16:48:39,599:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002D36712B6D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000002D366A96B10>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002D367109BC0>)
+2025-10-29 16:48:39,600:INFO:Checking exceptions
+2025-10-29 16:48:39,600:INFO:Preloading libraries
+2025-10-29 16:48:39,600:INFO:Set up data.
+2025-10-29 16:48:39,621:INFO:Set up index.
+2025-10-29 16:50:16,788:INFO:Initializing predict_model()
+2025-10-29 16:50:16,789:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002D365CEEA50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x000002D366A96B10>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002D3670A02C0>)
+2025-10-29 16:50:16,789:INFO:Checking exceptions
+2025-10-29 16:50:16,789:INFO:Preloading libraries
+2025-10-29 16:50:16,789:INFO:Set up data.
+2025-10-29 16:50:16,799:INFO:Set up index.
+2025-10-29 16:58:43,503:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:58:43,503:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:58:43,503:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:58:43,503:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-29 16:58:45,278:INFO:Initializing load_model()
+2025-10-29 16:58:45,278:INFO:load_model(model_name=D:\Usuario Carlos\Desktop\octavo semestre\villaIA\Backend\models\modelo_cls_like_v3, platform=None, authentication=None, verbose=True)
+2025-10-29 16:59:13,839:INFO:Initializing predict_model()
+2025-10-29 16:59:13,839:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001550739BA50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015507379BC0>)
+2025-10-29 16:59:13,839:INFO:Checking exceptions
+2025-10-29 16:59:13,839:INFO:Preloading libraries
+2025-10-29 16:59:13,840:INFO:Set up data.
+2025-10-29 16:59:13,866:INFO:Set up index.
+2025-10-29 17:01:36,811:INFO:Initializing predict_model()
+2025-10-29 17:01:36,811:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000015506EA3C90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015504CA1300>)
+2025-10-29 17:01:36,811:INFO:Checking exceptions
+2025-10-29 17:01:36,811:INFO:Preloading libraries
+2025-10-29 17:01:36,811:INFO:Set up data.
+2025-10-29 17:01:36,824:INFO:Set up index.
+2025-10-29 17:01:50,554:INFO:Initializing predict_model()
+2025-10-29 17:01:50,554:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155013BC710>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000155010A0040>)
+2025-10-29 17:01:50,555:INFO:Checking exceptions
+2025-10-29 17:01:50,555:INFO:Preloading libraries
+2025-10-29 17:01:50,556:INFO:Set up data.
+2025-10-29 17:01:50,578:INFO:Set up index.
+2025-10-29 17:02:00,543:INFO:Initializing predict_model()
+2025-10-29 17:02:00,543:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000015506EA3C90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015507358680>)
+2025-10-29 17:02:00,543:INFO:Checking exceptions
+2025-10-29 17:02:00,543:INFO:Preloading libraries
+2025-10-29 17:02:00,543:INFO:Set up data.
+2025-10-29 17:02:00,557:INFO:Set up index.
+2025-10-29 17:02:11,604:INFO:Initializing predict_model()
+2025-10-29 17:02:11,604:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155034B3DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015504F2EAC0>)
+2025-10-29 17:02:11,605:INFO:Checking exceptions
+2025-10-29 17:02:11,605:INFO:Preloading libraries
+2025-10-29 17:02:11,605:INFO:Set up data.
+2025-10-29 17:02:11,623:INFO:Set up index.
+2025-10-29 17:02:25,310:INFO:Initializing predict_model()
+2025-10-29 17:02:25,310:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155063D4190>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000155073585E0>)
+2025-10-29 17:02:25,311:INFO:Checking exceptions
+2025-10-29 17:02:25,311:INFO:Preloading libraries
+2025-10-29 17:02:25,311:INFO:Set up data.
+2025-10-29 17:02:25,332:INFO:Set up index.
+2025-10-29 17:02:35,624:INFO:Initializing predict_model()
+2025-10-29 17:02:35,625:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155034B3DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000155073102C0>)
+2025-10-29 17:02:35,625:INFO:Checking exceptions
+2025-10-29 17:02:35,625:INFO:Preloading libraries
+2025-10-29 17:02:35,625:INFO:Set up data.
+2025-10-29 17:02:35,637:INFO:Set up index.
+2025-10-29 17:02:51,221:INFO:Initializing predict_model()
+2025-10-29 17:02:51,221:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000015504D09F10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001555A36ACA0>)
+2025-10-29 17:02:51,221:INFO:Checking exceptions
+2025-10-29 17:02:51,221:INFO:Preloading libraries
+2025-10-29 17:02:51,221:INFO:Set up data.
+2025-10-29 17:02:51,240:INFO:Set up index.
+2025-10-29 17:02:58,481:INFO:Initializing predict_model()
+2025-10-29 17:02:58,481:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155034E60D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015507313880>)
+2025-10-29 17:02:58,481:INFO:Checking exceptions
+2025-10-29 17:02:58,481:INFO:Preloading libraries
+2025-10-29 17:02:58,482:INFO:Set up data.
+2025-10-29 17:02:58,500:INFO:Set up index.
+2025-10-29 17:07:10,937:INFO:Initializing predict_model()
+2025-10-29 17:07:10,937:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155013BCA10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015504F2EE80>)
+2025-10-29 17:07:10,938:INFO:Checking exceptions
+2025-10-29 17:07:10,938:INFO:Preloading libraries
+2025-10-29 17:07:10,938:INFO:Set up data.
+2025-10-29 17:07:10,945:INFO:Set up index.
+2025-10-29 17:07:56,086:INFO:Initializing predict_model()
+2025-10-29 17:07:56,086:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155035F4D10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015507313880>)
+2025-10-29 17:07:56,086:INFO:Checking exceptions
+2025-10-29 17:07:56,086:INFO:Preloading libraries
+2025-10-29 17:07:56,086:INFO:Set up data.
+2025-10-29 17:07:56,093:INFO:Set up index.
+2025-10-29 17:12:25,518:INFO:Initializing predict_model()
+2025-10-29 17:12:25,518:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155013BCA10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015501361E40>)
+2025-10-29 17:12:25,518:INFO:Checking exceptions
+2025-10-29 17:12:25,518:INFO:Preloading libraries
+2025-10-29 17:12:25,519:INFO:Set up data.
+2025-10-29 17:12:25,529:INFO:Set up index.
+2025-10-29 17:12:58,690:INFO:Initializing predict_model()
+2025-10-29 17:12:58,690:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000015504AB9E50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000155073102C0>)
+2025-10-29 17:12:58,690:INFO:Checking exceptions
+2025-10-29 17:12:58,690:INFO:Preloading libraries
+2025-10-29 17:12:58,690:INFO:Set up data.
+2025-10-29 17:12:58,697:INFO:Set up index.
+2025-10-29 17:13:12,252:INFO:Initializing predict_model()
+2025-10-29 17:13:12,252:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155073CF310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015504E7C5E0>)
+2025-10-29 17:13:12,252:INFO:Checking exceptions
+2025-10-29 17:13:12,252:INFO:Preloading libraries
+2025-10-29 17:13:12,253:INFO:Set up data.
+2025-10-29 17:13:12,263:INFO:Set up index.
+2025-10-29 17:15:09,751:INFO:Initializing predict_model()
+2025-10-29 17:15:09,751:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000015503528490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015504CA1300>)
+2025-10-29 17:15:09,751:INFO:Checking exceptions
+2025-10-29 17:15:09,751:INFO:Preloading libraries
+2025-10-29 17:15:09,751:INFO:Set up data.
+2025-10-29 17:15:09,759:INFO:Set up index.
+2025-10-29 17:17:16,146:INFO:Initializing predict_model()
+2025-10-29 17:17:16,146:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001550360D850>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['edad', 'presupuesto_estimado',
+                                             'costo_entrada', 'admite_mascotas',
+                                             'frecuencia_viaje',
+                                             'sitios_visitados',
+                                             'calificacion_sitios_previos',
+                                             'tiempo_estancia_promedio',
+                                             'afluencia_promedio',
+                                             'duracion_esperada',
+                                             'ratio_costo_presu',
+                                             'afinidad_tipo'],
+                                    transformer=SimpleI...
+                                              ('Light Gradient Boosting '
+                                               'Machine',
+                                               LGBMClassifier(bagging_fraction=0.6,
+                                                              bagging_freq=5,
+                                                              feature_fraction=0.8,
+                                                              learning_rate=0.05,
+                                                              min_child_samples=86,
+                                                              min_split_gain=0.9,
+                                                              n_estimators=130,
+                                                              n_jobs=1,
+                                                              num_leaves=40,
+                                                              random_state=42,
+                                                              reg_alpha=2,
+                                                              reg_lambda=0.001)),
+                                              ('CatBoost Classifier',
+                                               <catboost.core.CatBoostClassifier object at 0x0000015504AB8690>)],
+                                  n_jobs=1, voting='soft'))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000015504E7C5E0>)
+2025-10-29 17:17:16,146:INFO:Checking exceptions
+2025-10-29 17:17:16,146:INFO:Preloading libraries
+2025-10-29 17:17:16,147:INFO:Set up data.
+2025-10-29 17:17:16,161:INFO:Set up index.
